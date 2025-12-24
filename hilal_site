@@ -1,27 +1,0 @@
-index.html<!DOCTYPE html>
-<html lang="ar">
-<head>
-  <meta charset="UTF-8">
-  <title>الهلال الأحمر المصري</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-
-  <h1>🔴 الهلال الأحمر المصري</h1>
-  <h2>فرع (القليوبية )</h2>
-
-  <a href="tel:123">
-    <button>🚑 الإسعاف</button>
-  </a>
-
-  <a href="tel:122">
-    <button>👮 الشرطة</button>
-  </a>
-
-  <a href="https://www.google.com/maps/search/?api=1&query=Current+Location" target="_blank">
-    <button>📍 https://maps.app.goo.gl/MpRPVFQ2xmxSs6ii8 </button>
-  </a>
-
-</body>
-</html>
-<link rel="stylesheet" href="style.css">
